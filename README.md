@@ -1,25 +1,33 @@
-**Evaluación Final Módulo 3**
+**Final Assessment - Module 3: Airline Customer Behavior Analysis** :flight_departure:
 
-Este ejercicio corresponde a la evalución final del módulo 3 del bootcamp de Data Analytics Promo D de Adalab. 
+This project is the final assessment for Module 3 of the Data Analytics Bootcamp Promo D by Adalab.
 
-Aprendizajes del modulo:
-- Librerías: Numpy, Pandas, Seaborn, Matplotbit
-- Técnicas para realizar un EDA (Exploratory Data Analysis)
-- Unión y Limpieza de datos
-- Gestión de nulos y duplicados
-- Herramientas de visualización
-- Estadística descriptiva e inferencial
+---
+:woman_technologist: **Learnings from the module:**
+- Libraries used: Numpy, Pandas, Seaborn, Matplotlib.
+- Techniques:
+    - Exploratory Data Analysis (EDA).
+    - Data merging and cleaning.
+    - Handling null values and duplicates.
+    - Data visualization tools.
+    - Descriptive and inferential statistics.
 
-El ejercicio consiste en realizar un análisis exploratorio, limpieza y posterior análisis de dos conjuntos de datos que, en su conjunto, describen el comportamiento de los clientes de una aerolínea dentro de un programa de lealtad. 
+---
+:books: **Project Description**
+The project involves conducting an exploratory analysis, cleaning the data, and performing an in-depth analysis of two datasets that describe the behavior of airline customers within a loyalty program.
+The two datasets to analyze are:
+- Customer Flight Analysis: Contains information about customer flight activity, including the number of booked flights, flown distance, accumulated and used points, and the expenses associated with the used points.
+- Customer Loyalty History: Provides a detailed customer profile, including their location, education level, income, marital status, and details about their loyalty program membership.
 
-Los dos conjuntos de datos a incluir en el análisis son:
-- Customer Flight Analysis: contiene información sobre la actividad de vuelo de los clientes, incluyendo el número de vuelos reservados, la distancia volada, los puntos acumulados y usados y los gastos asociados a los puntos usados.
-- Customer Loyalty History: proporciona un perfil detallado de los clientes, incluyendo su ubicación, nivel educativo, ingresos, estado civil y detalles sobre su membresía en el programa de lealtad.
+---
+:hammer_and_wrench: **Phases of the project:**
+- Phase 1: Perform exploratory analysis and data cleaning.
+- Phase 2: Extract insights and answer key questions using visualization tools.
 
-El ejercicio se divide endos fases. La primera fase consiste en realizar un análisis exploratorio y llevar a cabo la limpieza de datos. La segunda fase consiste en extraer insights y dar respuesta a algunas preguntas utilizando herramientas de visualización.
+---
+:file_folder: **Repository structure:**
+- raw_data: Contains the original datasets.
+- clean_data: Contains the CSV file after data merging and cleaning.
+- customer_loyalty_analysis.ipynb: Contains the code used for the analysis.
 
-Contenido de este repositorio: 
-- raw_data: contiene los conjuntos de datos originales
-- clean_data: contiene el csv una vez completada la unión y limpieza de los datos
-- mod3-ejercicio-tecnico: contiene el código con el análisis
-  
+---
