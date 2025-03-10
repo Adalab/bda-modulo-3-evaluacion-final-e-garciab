@@ -1,4 +1,4 @@
-**Final Assessment - Module 3: Airline Customer Behavior Analysis** :flight_departure:
+# **Final Assessment - Module 3: Airline Customer Behavior Analysis** :flight_departure:
 
 This project is the final assessment for Module 3 of the Data Analytics Bootcamp Promo D by Adalab.
 
