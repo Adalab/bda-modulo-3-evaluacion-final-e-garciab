@@ -26,8 +26,8 @@ The two datasets to analyze are:
 
 ---
 ### :file_folder: **Repository structure:**
-- raw_data: Contains the original datasets.
-- clean_data: Contains the CSV file after data merging and cleaning.
-- customer_loyalty_analysis.ipynb: Contains the code used for the analysis.
+- **raw_data:** Contains the original datasets.
+- **clean_data:** Contains the CSV file after data merging and cleaning.
+- **customer_loyalty_analysis.ipynb:** Contains the code used for the analysis.
 
 ---
