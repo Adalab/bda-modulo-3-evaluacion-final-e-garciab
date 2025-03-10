@@ -4,7 +4,7 @@ This project is the final assessment for Module 3 of the Data Analytics Bootcamp
 
 ---
 ### :woman_technologist: **Learnings from the module:**   
-- Libraries: Numpy, Pandas, Seaborn, Matplotlib.
+- Libraries: Numpy, Pandas, Seaborn, Matplotlib, Scikit-Learn. 
 - Techniques:
     - Exploratory Data Analysis (EDA).
     - Data merging and cleaning.
